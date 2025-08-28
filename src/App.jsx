@@ -113,7 +113,7 @@ export default function App() {
           </div>
           <div className="social-proof">
             <span className="stars" aria-hidden="true">★★★★★</span>
-            <span className="muted">4.9 average from 1,200+ users</span>
+            <span className="muted">4.9 average from 1 user</span>
           </div>
         </div>
 
